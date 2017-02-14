@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Naga Sai Babu Kongara
+description: Designer | Developer | Data Architect
+email: nagacheers@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
+- {name: Friends, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
